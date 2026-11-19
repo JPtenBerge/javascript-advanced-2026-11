@@ -1,4 +1,4 @@
-'use strict';
+"use strict";
 
 // zonder new:
 // - this wijst standaard naar de eigenaar van jouw globale functie - window/globalThis
@@ -12,37 +12,31 @@ function Customer(name) {
   this.name = name;
 
   this.buy = () => {
-    console.log('this in buy:', this);
-    console.log(`ik ${this.name} ga wederom kopen kopen kopen`)
+    console.log("this in buy:", this);
+    console.log(`ik ${this.name} ga wederom kopen kopen kopen`);
+
+    let self = this;
+    const nested = function() {
+      console.log("this in nested:", self, this);
+    };
+    nested();
   };
 }
 let dion = new Customer("Dion");
-dion.name = 'Yurian';
+dion.name = "Yurian";
 dion.buy();
 
-dion.buy.call({ name: 'JP' }, 42, 18, 29);
-dion.buy.apply({ name: 'Roald' }, [42, 18, 29]);
+// dion.buy.call({ name: 'JP' }, 42, 18, 29);
+// dion.buy.apply({ name: 'Roald' }, [42, 18, 29]);
 
-let gebindeBuy = dion.buy.bind({ name: 'Frank' });
-gebindeBuy();
-gebindeBuy();
-gebindeBuy();
-gebindeBuy();
-
+// let gebindeBuy = dion.buy.bind({ name: 'Frank' });
+// gebindeBuy();
+// gebindeBuy();
+// gebindeBuy();
+// gebindeBuy();
 
 // let buy = dion.buy; // trekt 'm uit z'n context
 // buy();
 
-
-
-
-
-function test() {
-
-}
-test`14` // tagged template literal
-
-
-
-
-
+function test() {}
+test`14`; // tagged template literal
