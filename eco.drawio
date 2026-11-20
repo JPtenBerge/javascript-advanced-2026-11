@@ -1,0 +1,46 @@
+<mxfile host="65bd71144e">
+    <diagram id="XYbN1s6w0eOSYHNXczqZ" name="Page-1">
+        <mxGraphModel dx="972" dy="581" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="QLGNVaPoB4xqQCzVqg5Q-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;" value="&lt;b&gt;VIew libraries/frameworks&lt;/b&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- React&lt;/div&gt;&lt;div&gt;- Preact&lt;/div&gt;&lt;div&gt;- Angular&lt;/div&gt;&lt;div&gt;- Vue&lt;/div&gt;&lt;div&gt;- Svelte&lt;/div&gt;&lt;div&gt;- HTMX&lt;/div&gt;&lt;div&gt;- Solid&lt;/div&gt;&lt;div&gt;- Qwik&lt;/div&gt;" vertex="1">
+                    <mxGeometry height="230" width="160" x="20" y="10" as="geometry"/>
+                </mxCell>
+                <mxCell id="QLGNVaPoB4xqQCzVqg5Q-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;" value="&lt;b&gt;TanStack&lt;/b&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Query: queries doen, caching, cache invalidation, pagination&lt;/div&gt;&lt;div&gt;- Router&lt;/div&gt;&lt;div&gt;- Start&lt;/div&gt;&lt;div&gt;- Table (headless met veel functies)&lt;/div&gt;" vertex="1">
+                    <mxGeometry height="150" width="160" x="190" y="10" as="geometry"/>
+                </mxCell>
+                <mxCell id="QLGNVaPoB4xqQCzVqg5Q-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;" value="&lt;b&gt;👻👻👻 (nagenoeg dood voor webAPPLICATIES)&lt;/b&gt;&lt;div&gt;&lt;div&gt;&amp;nbsp;&lt;/div&gt;&lt;div&gt;- jQuery&lt;/div&gt;&lt;div&gt;- moment&lt;/div&gt;&lt;/div&gt;" vertex="1">
+                    <mxGeometry height="150" width="160" x="670" y="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="QLGNVaPoB4xqQCzVqg5Q-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;" value="&lt;b&gt;Backend frameworks&lt;/b&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Express&lt;/div&gt;&lt;div&gt;- Next/Nuxt/@angular/ssr/QwikCity&lt;/div&gt;&lt;div&gt;- Hapi&lt;/div&gt;&lt;div&gt;- Nest&lt;/div&gt;&lt;div&gt;- Meteor?&lt;/div&gt;" vertex="1">
+                    <mxGeometry height="150" width="210" x="20" y="180" as="geometry"/>
+                </mxCell>
+                <mxCell id="QLGNVaPoB4xqQCzVqg5Q-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;" value="&lt;b&gt;Unittesten&lt;/b&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Jest&lt;/div&gt;&lt;div&gt;- Vitest&amp;nbsp; Vite+&lt;/div&gt;&lt;div&gt;- Mocha&lt;/div&gt;&lt;div&gt;- Jasmine&lt;/div&gt;&lt;div&gt;- Stryker&lt;/div&gt;" vertex="1">
+                    <mxGeometry height="150" width="110" x="230" y="180" as="geometry"/>
+                </mxCell>
+                <mxCell id="QLGNVaPoB4xqQCzVqg5Q-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;" value="&lt;b&gt;Integration/end-to-end testen&lt;/b&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Cypress&lt;/div&gt;&lt;div&gt;- Playwright &amp;lt;== 🔥💡👍&lt;/div&gt;&lt;div&gt;- Puppeteer&lt;/div&gt;&lt;div&gt;- Selenium&lt;/div&gt;&lt;div&gt;- Webdriver I/O&lt;/div&gt;&lt;div&gt;- Nightwatch&lt;/div&gt;&lt;div&gt;- TestCafe&lt;/div&gt;&lt;div&gt;- Testing Library&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+                    <mxGeometry height="160" width="210" x="350" y="15" as="geometry"/>
+                </mxCell>
+                <mxCell id="QLGNVaPoB4xqQCzVqg5Q-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;" value="&lt;b&gt;CSS frameworks / utility stuff&lt;/b&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Tailwind&lt;/div&gt;&lt;div&gt;- UnoCSS&lt;/div&gt;&lt;div&gt;- Open props&lt;/div&gt;&lt;div&gt;- Bootstrap&lt;/div&gt;&lt;div&gt;- Foundation&lt;/div&gt;&lt;div&gt;- animate.css&lt;/div&gt;&lt;div&gt;- GSAP&lt;/div&gt;&lt;div&gt;- shad/cn&lt;/div&gt;" vertex="1">
+                    <mxGeometry height="180" width="110" x="20" y="320" as="geometry"/>
+                </mxCell>
+                <mxCell id="QLGNVaPoB4xqQCzVqg5Q-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;" value="&lt;b&gt;Third-party tests&lt;/b&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- BrowserStack&lt;/div&gt;&lt;div&gt;- Chromatic&lt;/div&gt;&lt;div&gt;- Storybook&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+                    <mxGeometry height="150" width="110" x="705" y="15" as="geometry"/>
+                </mxCell>
+                <mxCell id="QLGNVaPoB4xqQCzVqg5Q-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;" value="&lt;b&gt;Libraries&lt;/b&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- dayjs / luxon / date-fns (als je geen Temporal doet)&lt;/div&gt;&lt;div&gt;- state: redux mobx ngrx ngxs zustand pinia&lt;/div&gt;&lt;div&gt;- async&lt;/div&gt;&lt;div&gt;- type-fest&lt;/div&gt;&lt;div&gt;- axios&lt;/div&gt;&lt;div&gt;- zod / yup&amp;nbsp; &amp;nbsp; maybe()&lt;/div&gt;&lt;div&gt;- rxjs (Observable)&lt;/div&gt;" vertex="1">
+                    <mxGeometry height="150" width="315" x="215" y="330" as="geometry"/>
+                </mxCell>
+                <mxCell id="QLGNVaPoB4xqQCzVqg5Q-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;" value="&lt;b&gt;Package managers&lt;/b&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- npm&lt;/div&gt;&lt;div&gt;&amp;nbsp; - default&lt;/div&gt;&lt;div&gt;&amp;nbsp; - package-lock&lt;/div&gt;&lt;div&gt;- pnpm&lt;/div&gt;&lt;div&gt;&amp;nbsp; - pnpm-lock&lt;/div&gt;&lt;div&gt;&amp;nbsp; - performant npm&lt;/div&gt;&lt;div&gt;&amp;nbsp; - global cache&lt;/div&gt;&lt;div&gt;&amp;nbsp; - security - postinstallscripts&lt;/div&gt;&lt;div&gt;- yarn&lt;/div&gt;&lt;div&gt;&amp;nbsp; - Meta&lt;/div&gt;&lt;div&gt;&amp;nbsp; - yarn-lock.json&lt;/div&gt;&lt;div&gt;&amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- bun&lt;/div&gt;" vertex="1">
+                    <mxGeometry height="260" width="180" x="610" y="290" as="geometry"/>
+                </mxCell>
+                <mxCell id="QLGNVaPoB4xqQCzVqg5Q-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;" value="&lt;b&gt;Build tools / module bundlers&lt;/b&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Vite voorheen&lt;/div&gt;&lt;div&gt;&amp;nbsp; - dev: esbuild&lt;/div&gt;&lt;div&gt;&amp;nbsp; - prod: Rollup&lt;/div&gt;&lt;div&gt;&amp;nbsp; - nieuwe Vite: Rolldown&lt;/div&gt;&lt;div&gt;- turbopack&lt;/div&gt;&lt;div&gt;- webpack&lt;/div&gt;&lt;div&gt;&amp;nbsp; - Rspack&lt;/div&gt;&lt;div&gt;- TypeScript compiler =&amp;gt; rust&lt;/div&gt;&lt;div&gt;- Rollup - Rolldown =&amp;gt; rust&lt;/div&gt;&lt;div&gt;- Parcel&lt;/div&gt;&lt;div&gt;- Grunt&lt;/div&gt;&lt;div&gt;- Gulp&lt;/div&gt;" vertex="1">
+                    <mxGeometry height="180" width="250" x="480" y="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="QLGNVaPoB4xqQCzVqg5Q-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;" value="&lt;b&gt;Cross-platform desktop dev&lt;/b&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Electron&lt;/div&gt;&lt;div&gt;- Tauri&lt;/div&gt;&lt;div&gt;- PhoneGap&lt;/div&gt;&lt;div&gt;- Appcelerator&lt;/div&gt;&lt;div&gt;- React Native&lt;/div&gt;&lt;div&gt;- Ionic&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+                    <mxGeometry height="150" width="110" x="350" y="190" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

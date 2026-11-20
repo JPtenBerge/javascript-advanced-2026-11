@@ -54,7 +54,6 @@ let prom3 = new Promise((res, rej) => setTimeout(() => res("derde"), 2000));
 let results = await Promise.allSettled([prom1, prom2, prom3]);
 console.log("results:", results);
 
-
 // Promises
 // - ideaal voor HTTP
 
@@ -74,3 +73,5 @@ console.log("results:", results);
 // bla = signal(14);
 // bla.update(28);
 // doubleBla = computed(() => bla() * 2)
+
+let products = await fetch("api/products").then((x) => x.json());
